@@ -13,4 +13,4 @@ Projeto desenvolvido durante o curso <b>"JavaScript: manipulando o DOM"</b> da A
 
 <img src="img/pagina-robotron.png" width="100%">
 
-# <a href="">Clique aqui para acessar o gerador de Robotron 2000 :) ! Enjoy</a>
+
